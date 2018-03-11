@@ -1,0 +1,233 @@
+# depslib dependency file v1.0
+1520607080 source:c:\users\mitesh pandey\desktop\halfpart\customer\main.cpp
+	<iostream>
+	"customer.h"
+	"food.h"
+	<cstdlib>
+
+1520607047 c:\users\mitesh pandey\desktop\halfpart\customer\include\customer.h
+	<cstring>
+	<iostream>
+	<fstream>
+	"food.h"
+	<cstdlib>
+
+1520607111 source:c:\users\mitesh pandey\desktop\halfpart\customer\src\customer.cpp
+	"customer.h"
+
+1520604234 c:\users\mitesh pandey\desktop\halfpart\customer\include\food.h
+	<iostream>
+	<fstream>
+
+1520523496 source:c:\users\mitesh pandey\desktop\halfpart\customer\src\breakfast.cpp
+	"breakfast.h"
+	"food.h"
+
+1520523568 c:\users\mitesh pandey\desktop\halfpart\customer\include\breakfast.h
+	"food.h"
+	<iostream>
+	<fstream>
+	<customer.h>
+
+1520524570 source:c:\users\mitesh pandey\desktop\halfpart\customer\src\lunch.cpp
+	"lunch.h"
+
+1520523568 c:\users\mitesh pandey\desktop\halfpart\customer\include\lunch.h
+	<fstream>
+	<food.h>
+	<customer.h>
+
+1520580867 source:c:\users\mitesh pandey\desktop\halfpart\customer\src\food.cpp
+	"food.h"
+	"breakfast.h"
+	"lunch.h"
+	"dinner.h"
+
+1520566376 source:c:\users\mitesh pandey\desktop\halfpart\customer\src\dinner.cpp
+	"dinner.h"
+
+1520523568 c:\users\mitesh pandey\desktop\halfpart\customer\include\dinner.h
+	<fstream>
+	<food.h>
+	<customer.h>
+
+1520672348 source:c:\customer\main.cpp
+	<iostream>
+	"customer.h"
+	"food.h"
+	<cstdlib>
+
+1520668885 c:\customer\include\customer.h
+	<cstring>
+	<iostream>
+	<fstream>
+	"food.h"
+	<cstdlib>
+	<cstdio>
+
+1520670600 c:\customer\include\food.h
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1520669516 source:c:\customer\src\breakfast.cpp
+	"breakfast.h"
+	"food.h"
+
+1520667762 c:\customer\include\breakfast.h
+	"food.h"
+	<iostream>
+	<fstream>
+	<customer.h>
+
+1520669516 source:c:\customer\src\dinner.cpp
+	"dinner.h"
+
+1520667762 c:\customer\include\dinner.h
+	<fstream>
+	<food.h>
+	<customer.h>
+
+1520673262 source:c:\customer\src\food.cpp
+	"food.h"
+	"breakfast.h"
+	"lunch.h"
+	"dinner.h"
+
+1520667762 c:\customer\include\lunch.h
+	<fstream>
+	<food.h>
+	<customer.h>
+
+1520669516 source:c:\customer\src\lunch.cpp
+	"lunch.h"
+
+1520672923 source:c:\customer\src\customer.cpp
+	"customer.h"
+
+1520669516 source:c:\users\mitesh pandey\desktop\project\src\breakfast.cpp
+	"breakfast.h"
+	"food.h"
+
+1520667762 c:\users\mitesh pandey\desktop\project\include\breakfast.h
+	"food.h"
+	<iostream>
+	<fstream>
+	<customer.h>
+
+1520670600 c:\users\mitesh pandey\desktop\project\include\food.h
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1520668885 c:\users\mitesh pandey\desktop\project\include\customer.h
+	<cstring>
+	<iostream>
+	<fstream>
+	"food.h"
+	<cstdlib>
+	<cstdio>
+
+1520680757 source:c:\users\mitesh pandey\desktop\project\src\customer.cpp
+	"customer.h"
+
+1520669516 source:c:\users\mitesh pandey\desktop\project\src\dinner.cpp
+	"dinner.h"
+
+1520679868 c:\users\mitesh pandey\desktop\project\include\dinner.h
+	<fstream>
+	<food.h>
+	<customer.h>
+
+1520679083 source:c:\users\mitesh pandey\desktop\project\src\food.cpp
+	"food.h"
+	"breakfast.h"
+	"lunch.h"
+	"dinner.h"
+	"manipulators.h"
+
+1520667762 c:\users\mitesh pandey\desktop\project\include\lunch.h
+	<fstream>
+	<food.h>
+	<customer.h>
+
+1520669516 source:c:\users\mitesh pandey\desktop\project\src\lunch.cpp
+	"lunch.h"
+
+1520676099 source:c:\users\mitesh pandey\desktop\project\src\manipulators.cpp
+	"manipulators.h"
+
+1520675518 c:\users\mitesh pandey\desktop\project\include\manipulators.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+
+1520678217 source:c:\users\mitesh pandey\desktop\project\main.cpp
+	<iostream>
+	"customer.h"
+	"food.h"
+	<cstdlib>
+
+1520698018 source:c:\users\mitesh pandey\desktop\sss\project\main.cpp
+	<iostream>
+	"customer.h"
+	"food.h"
+	<cstdlib>
+
+1520668885 c:\users\mitesh pandey\desktop\sss\project\include\customer.h
+	<cstring>
+	<iostream>
+	<fstream>
+	"food.h"
+	<cstdlib>
+	<cstdio>
+
+1520746663 c:\users\mitesh pandey\desktop\sss\project\include\food.h
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1520744967 source:c:\users\mitesh pandey\desktop\sss\project\src\breakfast.cpp
+	"breakfast.h"
+	"food.h"
+
+1520667762 c:\users\mitesh pandey\desktop\sss\project\include\breakfast.h
+	"food.h"
+	<iostream>
+	<fstream>
+	<customer.h>
+
+1520769554 source:c:\users\mitesh pandey\desktop\sss\project\src\customer.cpp
+	"customer.h"
+
+1520744967 source:c:\users\mitesh pandey\desktop\sss\project\src\dinner.cpp
+	"dinner.h"
+
+1520679868 c:\users\mitesh pandey\desktop\sss\project\include\dinner.h
+	<fstream>
+	<food.h>
+	<customer.h>
+
+1520747486 source:c:\users\mitesh pandey\desktop\sss\project\src\food.cpp
+	"food.h"
+	"breakfast.h"
+	"lunch.h"
+	"dinner.h"
+	"manipulators.h"
+
+1520667762 c:\users\mitesh pandey\desktop\sss\project\include\lunch.h
+	<fstream>
+	<food.h>
+	<customer.h>
+
+1520675518 c:\users\mitesh pandey\desktop\sss\project\include\manipulators.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+
+1520744967 source:c:\users\mitesh pandey\desktop\sss\project\src\lunch.cpp
+	"lunch.h"
+
+1520676099 source:c:\users\mitesh pandey\desktop\sss\project\src\manipulators.cpp
+	"manipulators.h"
+
